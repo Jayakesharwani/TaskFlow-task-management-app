@@ -158,10 +158,6 @@ JWT_SECRET=your_jwt_secret
 PORT=3000
 ```
 
-Use your actual production environment configuration in Render.
-
-Never commit real secrets, passwords, database credentials, or API keys to GitHub.
-
 ### Frontend
 
 Create a `.env.local` file inside the `frontend` directory for local development.
@@ -190,7 +186,7 @@ Make sure the following are installed:
 ### Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone  https://github.com/Jayakesharwani/TaskFlow-task-management-app
 cd taskflow
 ```
 
