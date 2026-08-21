@@ -58,9 +58,9 @@ export default function RegisterPage() {
         password,
       });
 
-      if (result.access_token) {
+      if (result.accessToken) {
         setAuth(
-          result.access_token,
+          result.accessToken,
           result.user,
         );
 
