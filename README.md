@@ -6,8 +6,8 @@ The application provides JWT-based authentication, complete task CRUD operations
 
 ## Live Application
 
-* Frontend: [Add your Vercel URL here]
-* Backend API: [Add your Render URL here]
+* Frontend: https://task-flow-task-management-app-yvgx-9gtgb1ws1.vercel.app/
+* Backend API: https://taskflow-backend-93ss.onrender.com
 
 ## Features
 
