@@ -1,0 +1,65 @@
+# =====================================================
+# TaskFlow - Root Git Ignore
+# =====================================================
+
+# Dependencies
+node_modules/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# Allow example environment files
+!.env.example
+
+# Backend
+backend/dist/
+backend/coverage/
+
+# Frontend - Next.js
+frontend/.next/
+frontend/out/
+frontend/coverage/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Testing
+coverage/
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
